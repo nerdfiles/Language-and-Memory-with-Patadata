@@ -2,7 +2,7 @@
 
 An immanence-based interpretation of multivariant intelligence as it manifests within cognitive systems. 
 
-##Table of Contents
+##§ Table of Contents
 
 1. Introduction 
 2. [Chapter 1](https://github.com/nerdfiles/Language-and-Memory-with-Patadata/blob/master/Chapter%201.markdown): A Calling on of Conceptual Schemes
